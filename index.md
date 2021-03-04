@@ -44,7 +44,7 @@ __Brno, University od technology__
 `2003 - 2006`
 __Brno, University od technology.__
 
-- Management Informatics - Bachelor degree 
+- Faculty of Business - Management Informatics - Bachelor degree
 
 ## Projects
 
