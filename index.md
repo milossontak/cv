@@ -15,7 +15,7 @@ Business architect / analyst, digital evangelist and automation expert
 
 ## Currently
 
-Business architect / analyst working on banking projects for 10 years, mainly focused on finance sector
+Business architect / analyst working on banking projects for 10 years, mainly focused on the finance sector
 
 ### Specialized in
 
@@ -39,12 +39,12 @@ Fintech, Agile
 `2006 - 2008`
 __Brno, University od technology__
 
-- Faculty of Business - Management Informatics - Master degree
+- Faculty of Business - Management Informatics - Master's degree
 
 `2003 - 2006`
 __Brno, University od technology.__
 
-- Faculty of Business - Management Informatics - Bachelor degree
+- Faculty of Business - Management Informatics - Bachelor's degree
 
 ## Projects
 
@@ -60,8 +60,8 @@ Project description design studio
 
 __Kifli__ - [web](https://www.kifli.cz)
 
-app for manage and prediction freelance budget.
-requirements, manage team, develop and testing
+application for management and prediction freelance budget.
+requirements management, manage team, develop and testing
 
 Tools: Enterprise architect, Apiary, Postman, PHP, MySQL
 
@@ -71,7 +71,7 @@ Role: Business architect
 
 __Chytra zakázka__ - [web](https://chytra-zakazka.blok37.cz)
 
-app to manage quotas and space with a client
+application to manage quotas and virtual space of a client
 
 Tools: Lucidchart, .NET, Postman
 
