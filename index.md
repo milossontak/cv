@@ -14,7 +14,7 @@ Business architect / analyst, digital evangelist and automation expert
 
 ## Photo
 
-![alt text](https://freelancing.eu/id/74/photo.jpg "Logo Title Text 1")
+![alt text](https://freelancing.eu/id/74/photo.jpg "Profile picture")
 
 ## Currently
 
