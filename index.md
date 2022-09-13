@@ -85,7 +85,7 @@ Role: Business architect
 `2019 - 2022`
 **Komerční banka - Openbanking**
 
-- Process degign,
+- Process design,
 - Creating API services, marketing, support client,
 - Creating developer community
 - Github examples
